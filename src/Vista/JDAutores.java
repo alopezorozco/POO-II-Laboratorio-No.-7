@@ -645,10 +645,3 @@ public class JDAutores extends javax.swing.JDialog {
 
 
 }//fin de la clase
-
-/*
-JOptionPane.showMessageDialog(null, 
-                ex.getMessage()+"\n"+"Código del error: " + ex.getErrorCode() +"\n"+
-                        "Mensaje: "+ex.getCause().getMessage(),
-                "Error",JOptionPane.ERROR_MESSAGE);
-*/
